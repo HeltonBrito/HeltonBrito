@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HeltonBrito
-- 👀 I’m interested in php, wordpress, jamstack, ci/cd, node, react, pwa etc.
+- 👀 I’m interested in php, wordpress, jamstack, ci/cd, node, react, pwa, headless, react etc.
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on developer team and programmer community
 - 📫 Feel free to contact me at heltonbrito@gmail.com
