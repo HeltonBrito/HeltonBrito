@@ -44,7 +44,7 @@ Jira • Agile • Scrum • Code Review • Git Flow • CI/CD
 ## 📫 Connect with me
 
 LinkedIn - https://www.linkedin.com/in/helton-brito-oliveira/
-GitHub
+GitHub - https://github.com/HeltonBrito/HeltonBrito
 
 <!---
 HeltonBrito/HeltonBrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
