@@ -44,6 +44,7 @@ Jira • Agile • Scrum • Code Review • Git Flow • CI/CD
 ## 📫 Connect with me
 
 LinkedIn - https://www.linkedin.com/in/helton-brito-oliveira/
+
 GitHub - https://github.com/HeltonBrito/HeltonBrito
 
 <!---
